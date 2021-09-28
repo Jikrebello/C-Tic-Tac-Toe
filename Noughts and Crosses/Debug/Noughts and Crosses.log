@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\C++ Projects\General C++ Projects\Noughts and Crosses\main.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Noughts and Crosses.vcxproj -> E:\C++ Projects\General C++ Projects\Noughts and Crosses\Debug\Noughts and Crosses.exe
